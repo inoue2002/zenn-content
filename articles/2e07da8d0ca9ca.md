@@ -2,7 +2,7 @@
 title: "気象庁APIから天気予報を取得する際のエリアコード一覧"
 emoji: "🌞"
 type: "tech"
-topics: ['make','line','integromat']
+topics: ['気象庁','API','天気予報']
 published: true
 ---
 
